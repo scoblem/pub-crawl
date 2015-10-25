@@ -1,0 +1,7 @@
+*.json
+*.pyc
+*.pdf
+*.part
+temp.py
+env
+ebooks
